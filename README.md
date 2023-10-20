@@ -1,14 +1,17 @@
 <div>
-<h1 align="center">Hi 👋, I'm GOWTHAM K</h1>
+<h1 align="center">Hi 👋, I'm GOWTHAM</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Edible oil shopping website](https://github.com/GOWTHAM2K1/webpage)
 
-- 🌱 I’m currently learning **React,Node,Django**
+- Mongo Express React Node with a little experience in vue
 
 - 👨‍💻 All of my projects are available at [https://github.com/GOWTHAM2K1](https://github.com/GOWTHAM2K1)
 
 - 📫 How to reach me **k304418@gmail.com**
+<h3 align="center">My Badges</h3>
+
+  [![An image of @gowtham2k1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gowtham2k1)](https://holopin.io/@gowtham2k1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowtham2k1&show_icons=true&locale=en&layout=compact" alt="gowtham2k1" /></p>
 </div>
-[![An image of @gowtham2k1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gowtham2k1)](https://holopin.io/@gowtham2k1)
-[holopin]:https://holopin.io/@gowtham2k1
+
