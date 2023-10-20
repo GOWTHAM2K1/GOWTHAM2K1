@@ -24,3 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowtham2k1&show_icons=true&locale=en&layout=compact" alt="gowtham2k1" /></p>
 </div>
 [![An image of @gowtham2k1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gowtham2k1)](https://holopin.io/@gowtham2k1)
+[holopin]:https://holopin.io/@gowtham2k1
